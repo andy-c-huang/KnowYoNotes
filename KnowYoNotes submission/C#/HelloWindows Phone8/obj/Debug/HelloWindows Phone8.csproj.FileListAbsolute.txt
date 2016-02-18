@@ -1,0 +1,38 @@
+C:\Users\Andy\Desktop\KnowYoNotes backup 6\C#\HelloWindows Phone8\obj\Debug\App.g.cs
+C:\Users\Andy\Desktop\KnowYoNotes backup 6\C#\HelloWindows Phone8\obj\Debug\GameOverPage.g.cs
+C:\Users\Andy\Desktop\KnowYoNotes backup 6\C#\HelloWindows Phone8\obj\Debug\InstructionPage.g.cs
+C:\Users\Andy\Desktop\KnowYoNotes backup 6\C#\HelloWindows Phone8\obj\Debug\MainPage.g.cs
+C:\Users\Andy\Desktop\KnowYoNotes backup 6\C#\HelloWindows Phone8\obj\Debug\MenuPage.g.cs
+C:\Users\Andy\Desktop\KnowYoNotes backup 6\C#\HelloWindows Phone8\obj\Debug\HelloWindows Phone8.g.resources
+C:\Users\Andy\Desktop\KnowYoNotes backup 6\C#\HelloWindows Phone8\obj\Debug\HelloWindows Phone8.csproj.GenerateResource.Cache
+C:\Users\Andy\Desktop\KnowYoNotes backup 6\C#\HelloWindows Phone8\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Andy\Desktop\KnowYoNotes backup 6\C#\HelloWindows Phone8\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Andy\Desktop\KnowYoNotes backup 6\C#\HelloWindows Phone8\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Andy\Desktop\KnowYoNotes backup 6\C#\HelloWindows Phone8\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Andy\Desktop\KnowYoNotes backup 6\C#\HelloWindows Phone8\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Andy\Desktop\KnowYoNotes backup 6\C#\HelloWindows Phone8\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Andy\Desktop\KnowYoNotes backup 6\C#\HelloWindows Phone8\Bin\Debug\HelloWindows Phone8.dll
+C:\Users\Andy\Desktop\KnowYoNotes backup 6\C#\HelloWindows Phone8\Bin\Debug\HelloWindows Phone8.pdb
+C:\Users\Andy\Desktop\KnowYoNotes backup 6\C#\HelloWindows Phone8\Bin\Debug\resources.pri
+C:\Users\Andy\Desktop\KnowYoNotes backup 6\C#\HelloWindows Phone8\Bin\Debug\AppxManifest.xml
+C:\Users\Andy\Desktop\KnowYoNotes backup 6\C#\HelloWindows Phone8\Bin\Debug\HelloWindows Phone8.build.appxrecipe
+C:\Users\Andy\Desktop\KnowYoNotes backup 6\C#\HelloWindows Phone8\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Andy\Desktop\KnowYoNotes backup 6\C#\HelloWindows Phone8\Bin\Debug\AppManifest.xaml
+C:\Users\Andy\Desktop\KnowYoNotes backup 6\C#\HelloWindows Phone8\Bin\Debug\HelloWindows Phone8_Debug_AnyCPU.xap
+C:\Users\Andy\Desktop\KnowYoNotes backup 6\C#\HelloWindows Phone8\obj\Debug\HelloWindows_Phone8.Resources.AppResources.resources
+C:\Users\Andy\Desktop\KnowYoNotes backup 6\C#\HelloWindows Phone8\obj\Debug\HelloWindows Phone8.dll
+C:\Users\Andy\Desktop\KnowYoNotes backup 6\C#\HelloWindows Phone8\obj\Debug\HelloWindows Phone8.pdb
+C:\Users\Andy\Desktop\KnowYoNotes backup 6\C#\HelloWindows Phone8\obj\Debug\priconfig.xml
+C:\Users\Andy\Desktop\KnowYoNotes backup 6\C#\HelloWindows Phone8\obj\Debug\priconfig.xml.intermediate
+C:\Users\Andy\Desktop\KnowYoNotes backup 6\C#\HelloWindows Phone8\obj\Debug\layout.resfiles
+C:\Users\Andy\Desktop\KnowYoNotes backup 6\C#\HelloWindows Phone8\obj\Debug\layout.resfiles.intermediate
+C:\Users\Andy\Desktop\KnowYoNotes backup 6\C#\HelloWindows Phone8\obj\Debug\resources.resfiles
+C:\Users\Andy\Desktop\KnowYoNotes backup 6\C#\HelloWindows Phone8\obj\Debug\resources.resfiles.intermediate
+C:\Users\Andy\Desktop\KnowYoNotes backup 6\C#\HelloWindows Phone8\obj\Debug\pri.resfiles
+C:\Users\Andy\Desktop\KnowYoNotes backup 6\C#\HelloWindows Phone8\obj\Debug\pri.resfiles.intermediate
+C:\Users\Andy\Desktop\KnowYoNotes backup 6\C#\HelloWindows Phone8\obj\Debug\qualifiers.txt
+C:\Users\Andy\Desktop\KnowYoNotes backup 6\C#\HelloWindows Phone8\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Andy\Desktop\KnowYoNotes backup 6\C#\HelloWindows Phone8\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Andy\Desktop\KnowYoNotes backup 6\C#\HelloWindows Phone8\obj\Debug\ProjectArchitectures.txt
+C:\Users\Andy\Desktop\KnowYoNotes backup 6\C#\HelloWindows Phone8\obj\Debug\MDILProjectFiles.xml
+C:\Users\Andy\Desktop\KnowYoNotes backup 6\C#\HelloWindows Phone8\obj\Debug\XapCacheFile.xml

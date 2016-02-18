@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Files>
+  <XAPFiles>
+    <File>resources.pri</File>
+    <File>HelloWindows Phone8.dll</File>
+    <File>Assets\AlignmentGrid.png</File>
+    <File>Assets\A_-1.mp3</File>
+    <File>Assets\A_0.mp3</File>
+    <File>Assets\BadgeLogo.png</File>
+    <File>Assets\B_-1.mp3</File>
+    <File>Assets\B_0.mp3</File>
+    <File>Assets\C_-1.mp3</File>
+    <File>Assets\C_0.mp3</File>
+    <File>Assets\D_-1.mp3</File>
+    <File>Assets\D_0.mp3</File>
+    <File>Assets\E_-1.mp3</File>
+    <File>Assets\E_0.mp3</File>
+    <File>Assets\F_-1.mp3</File>
+    <File>Assets\F_0.mp3</File>
+    <File>Assets\G_-1.mp3</File>
+    <File>Assets\G_0.mp3</File>
+    <File>Assets\Logo.png</File>
+    <File>Assets\quarter_note.png</File>
+    <File>Assets\quarter_note_flipped.png</File>
+    <File>Assets\SplashScreen.png</File>
+    <File>Assets\SquareTile150x150.png</File>
+    <File>Assets\SquareTile71x71.png</File>
+    <File>Assets\StoreLogo.png</File>
+    <File>Assets\Tiles\FlipCycleTileLarge.png</File>
+    <File>Assets\Tiles\FlipCycleTileSmall.png</File>
+    <File>Assets\Tiles\IconicTileMediumLarge.png</File>
+    <File>Assets\Tiles\IconicTileSmall.png</File>
+    <File>Assets\treble_clef_with_empty_staff.png</File>
+    <File>Assets\trombone_fail.mp3</File>
+    <File>Assets\WideLogo.png</File>
+    <File>AppManifest.xaml</File>
+    <File>Assets\ApplicationIcon.png</File>
+    <File>Assets\Tiles\FlipCycleTileMedium.png</File>
+    <File>WMAppManifest.xml</File>
+    <File>AppxManifest.xml</File>
+  </XAPFiles>
+  <APPXFiles />
+</Files>

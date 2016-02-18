@@ -1,0 +1,15 @@
+﻿<xapCache source="C:\Users\Andy\Downloads\Hello Windows Phone 8\C#\HelloWindows Phone8\Bin\Debug\HelloWindows_Phone8_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="2/1/2015 1:50:24 AM">
+  <file source="C:\Users\Andy\Downloads\Hello Windows Phone 8\C#\HelloWindows Phone8\obj\Debug\HelloWindows Phone8.dll" archivePath="HelloWindows Phone8.dll" lastWriteTime="2/1/2015 1:50:23 AM" />
+  <file source="C:\Users\Andy\Downloads\Hello Windows Phone 8\C#\HelloWindows Phone8\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="6/5/2014 6:28:07 PM" />
+  <file source="C:\Users\Andy\Downloads\Hello Windows Phone 8\C#\HelloWindows Phone8\Assets\quarter_note.png" archivePath="Assets\quarter_note.png" lastWriteTime="1/31/2015 7:53:52 PM" />
+  <file source="C:\Users\Andy\Downloads\Hello Windows Phone 8\C#\HelloWindows Phone8\Assets\quarter_note_flipped.png" archivePath="Assets\quarter_note_flipped.png" lastWriteTime="2/1/2015 1:31:20 AM" />
+  <file source="C:\Users\Andy\Downloads\Hello Windows Phone 8\C#\HelloWindows Phone8\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="6/5/2014 6:28:07 PM" />
+  <file source="C:\Users\Andy\Downloads\Hello Windows Phone 8\C#\HelloWindows Phone8\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="6/5/2014 6:28:07 PM" />
+  <file source="C:\Users\Andy\Downloads\Hello Windows Phone 8\C#\HelloWindows Phone8\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="6/5/2014 6:28:07 PM" />
+  <file source="C:\Users\Andy\Downloads\Hello Windows Phone 8\C#\HelloWindows Phone8\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="6/5/2014 6:28:07 PM" />
+  <file source="C:\Users\Andy\Downloads\Hello Windows Phone 8\C#\HelloWindows Phone8\Assets\treble_clef_with_empty_staff.png" archivePath="Assets\treble_clef_with_empty_staff.png" lastWriteTime="1/31/2015 5:20:14 PM" />
+  <file source="C:\Users\Andy\Downloads\Hello Windows Phone 8\C#\HelloWindows Phone8\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="1/31/2015 4:35:47 PM" />
+  <file source="C:\Users\Andy\Downloads\Hello Windows Phone 8\C#\HelloWindows Phone8\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="6/5/2014 6:28:07 PM" />
+  <file source="C:\Users\Andy\Downloads\Hello Windows Phone 8\C#\HelloWindows Phone8\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="6/5/2014 6:28:07 PM" />
+  <file source="C:\Users\Andy\Downloads\Hello Windows Phone 8\C#\HelloWindows Phone8\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="6/5/2014 6:28:07 PM" />
+</xapCache>

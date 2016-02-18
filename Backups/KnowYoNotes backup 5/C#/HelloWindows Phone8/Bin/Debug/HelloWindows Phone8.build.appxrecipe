@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GAUSS</Machine>
+    <WindowsUser>Andy</WindowsUser>
+    <TargetPlatformIdentifier>Windows Phone</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>1e011a6c-7c69-464c-ab09-4830d016579d</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Andy\Desktop\KnowYoNotes backup 4\C#\HelloWindows Phone8\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Andy\Desktop\KnowYoNotes backup 4\C#\HelloWindows Phone8\Bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Andy\Desktop\KnowYoNotes backup 4\C#\HelloWindows Phone8\Bin\Debug\HelloWindows Phone8.dll">
+      <PackagePath>HelloWindows Phone8.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andy\Desktop\KnowYoNotes backup 4\C#\HelloWindows Phone8\Assets\AlignmentGrid.png">
+      <PackagePath>Assets\AlignmentGrid.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andy\Desktop\KnowYoNotes backup 4\C#\HelloWindows Phone8\Assets\ApplicationIcon.png">
+      <PackagePath>Assets\ApplicationIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andy\Desktop\KnowYoNotes backup 4\C#\HelloWindows Phone8\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andy\Desktop\KnowYoNotes backup 4\C#\HelloWindows Phone8\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andy\Desktop\KnowYoNotes backup 4\C#\HelloWindows Phone8\Assets\quarter_note.png">
+      <PackagePath>Assets\quarter_note.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andy\Desktop\KnowYoNotes backup 4\C#\HelloWindows Phone8\Assets\quarter_note_flipped.png">
+      <PackagePath>Assets\quarter_note_flipped.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andy\Desktop\KnowYoNotes backup 4\C#\HelloWindows Phone8\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andy\Desktop\KnowYoNotes backup 4\C#\HelloWindows Phone8\Assets\SquareTile150x150.png">
+      <PackagePath>Assets\SquareTile150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andy\Desktop\KnowYoNotes backup 4\C#\HelloWindows Phone8\Assets\SquareTile71x71.png">
+      <PackagePath>Assets\SquareTile71x71.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andy\Desktop\KnowYoNotes backup 4\C#\HelloWindows Phone8\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andy\Desktop\KnowYoNotes backup 4\C#\HelloWindows Phone8\Assets\Tiles\FlipCycleTileLarge.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andy\Desktop\KnowYoNotes backup 4\C#\HelloWindows Phone8\Assets\Tiles\FlipCycleTileMedium.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileMedium.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andy\Desktop\KnowYoNotes backup 4\C#\HelloWindows Phone8\Assets\Tiles\FlipCycleTileSmall.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andy\Desktop\KnowYoNotes backup 4\C#\HelloWindows Phone8\Assets\Tiles\IconicTileMediumLarge.png">
+      <PackagePath>Assets\Tiles\IconicTileMediumLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andy\Desktop\KnowYoNotes backup 4\C#\HelloWindows Phone8\Assets\Tiles\IconicTileSmall.png">
+      <PackagePath>Assets\Tiles\IconicTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andy\Desktop\KnowYoNotes backup 4\C#\HelloWindows Phone8\Assets\treble_clef_with_empty_staff.png">
+      <PackagePath>Assets\treble_clef_with_empty_staff.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andy\Desktop\KnowYoNotes backup 4\C#\HelloWindows Phone8\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andy\Desktop\KnowYoNotes backup 4\C#\HelloWindows Phone8\Assets\A_-1.mp3">
+      <PackagePath>Assets\A_-1.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andy\Desktop\KnowYoNotes backup 4\C#\HelloWindows Phone8\Assets\A_0.mp3">
+      <PackagePath>Assets\A_0.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andy\Desktop\KnowYoNotes backup 4\C#\HelloWindows Phone8\Assets\B_-1.mp3">
+      <PackagePath>Assets\B_-1.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andy\Desktop\KnowYoNotes backup 4\C#\HelloWindows Phone8\Assets\B_0.mp3">
+      <PackagePath>Assets\B_0.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andy\Desktop\KnowYoNotes backup 4\C#\HelloWindows Phone8\Assets\C_-1.mp3">
+      <PackagePath>Assets\C_-1.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andy\Desktop\KnowYoNotes backup 4\C#\HelloWindows Phone8\Assets\C_0.mp3">
+      <PackagePath>Assets\C_0.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andy\Desktop\KnowYoNotes backup 4\C#\HelloWindows Phone8\Assets\D_-1.mp3">
+      <PackagePath>Assets\D_-1.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andy\Desktop\KnowYoNotes backup 4\C#\HelloWindows Phone8\Assets\D_0.mp3">
+      <PackagePath>Assets\D_0.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andy\Desktop\KnowYoNotes backup 4\C#\HelloWindows Phone8\Assets\E_-1.mp3">
+      <PackagePath>Assets\E_-1.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andy\Desktop\KnowYoNotes backup 4\C#\HelloWindows Phone8\Assets\E_0.mp3">
+      <PackagePath>Assets\E_0.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andy\Desktop\KnowYoNotes backup 4\C#\HelloWindows Phone8\Assets\F_-1.mp3">
+      <PackagePath>Assets\F_-1.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andy\Desktop\KnowYoNotes backup 4\C#\HelloWindows Phone8\Assets\F_0.mp3">
+      <PackagePath>Assets\F_0.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andy\Desktop\KnowYoNotes backup 4\C#\HelloWindows Phone8\Assets\G_-1.mp3">
+      <PackagePath>Assets\G_-1.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andy\Desktop\KnowYoNotes backup 4\C#\HelloWindows Phone8\Assets\G_0.mp3">
+      <PackagePath>Assets\G_0.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andy\Desktop\KnowYoNotes backup 4\C#\HelloWindows Phone8\Assets\trombone_fail.mp3">
+      <PackagePath>Assets\trombone_fail.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andy\Desktop\KnowYoNotes backup 4\C#\HelloWindows Phone8\Bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

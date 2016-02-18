@@ -1,0 +1,37 @@
+c:\users\houssem dellai\documents\visual studio 2012\Projects\HelloWindows Phone8\HelloWindows Phone8\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\houssem dellai\documents\visual studio 2012\Projects\HelloWindows Phone8\HelloWindows Phone8\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\houssem dellai\documents\visual studio 2012\Projects\HelloWindows Phone8\HelloWindows Phone8\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\houssem dellai\documents\visual studio 2012\Projects\HelloWindows Phone8\HelloWindows Phone8\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\houssem dellai\documents\visual studio 2012\Projects\HelloWindows Phone8\HelloWindows Phone8\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\houssem dellai\documents\visual studio 2012\Projects\HelloWindows Phone8\HelloWindows Phone8\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\houssem dellai\documents\visual studio 2012\Projects\HelloWindows Phone8\HelloWindows Phone8\Bin\Debug\HelloWindows Phone8.dll
+c:\users\houssem dellai\documents\visual studio 2012\Projects\HelloWindows Phone8\HelloWindows Phone8\Bin\Debug\HelloWindows Phone8.pdb
+c:\users\houssem dellai\documents\visual studio 2012\Projects\HelloWindows Phone8\HelloWindows Phone8\Bin\Debug\AppManifest.xaml
+c:\users\houssem dellai\documents\visual studio 2012\Projects\HelloWindows Phone8\HelloWindows Phone8\Bin\Debug\HelloWindows_Phone8_Debug_AnyCPU.xap
+c:\users\houssem dellai\documents\visual studio 2012\Projects\HelloWindows Phone8\HelloWindows Phone8\obj\Debug\App.g.cs
+c:\users\houssem dellai\documents\visual studio 2012\Projects\HelloWindows Phone8\HelloWindows Phone8\obj\Debug\MainPage.g.cs
+c:\users\houssem dellai\documents\visual studio 2012\Projects\HelloWindows Phone8\HelloWindows Phone8\obj\Debug\HelloWindows Phone8.g.resources
+c:\users\houssem dellai\documents\visual studio 2012\Projects\HelloWindows Phone8\HelloWindows Phone8\obj\Debug\HelloWindows_Phone8.Resources.AppResources.resources
+c:\users\houssem dellai\documents\visual studio 2012\Projects\HelloWindows Phone8\HelloWindows Phone8\obj\Debug\HelloWindows Phone8.csproj.GenerateResource.Cache
+c:\users\houssem dellai\documents\visual studio 2012\Projects\HelloWindows Phone8\HelloWindows Phone8\obj\Debug\HelloWindows Phone8.dll
+c:\users\houssem dellai\documents\visual studio 2012\Projects\HelloWindows Phone8\HelloWindows Phone8\obj\Debug\HelloWindows Phone8.pdb
+c:\users\houssem dellai\documents\visual studio 2012\Projects\HelloWindows Phone8\HelloWindows Phone8\obj\Debug\XapCacheFile.xml
+C:\Users\Andy\Downloads\Hello Windows Phone 8\C#\HelloWindows Phone8\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Andy\Downloads\Hello Windows Phone 8\C#\HelloWindows Phone8\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Andy\Downloads\Hello Windows Phone 8\C#\HelloWindows Phone8\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Andy\Downloads\Hello Windows Phone 8\C#\HelloWindows Phone8\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Andy\Downloads\Hello Windows Phone 8\C#\HelloWindows Phone8\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Andy\Downloads\Hello Windows Phone 8\C#\HelloWindows Phone8\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Andy\Downloads\Hello Windows Phone 8\C#\HelloWindows Phone8\Bin\Debug\HelloWindows Phone8.dll
+C:\Users\Andy\Downloads\Hello Windows Phone 8\C#\HelloWindows Phone8\Bin\Debug\HelloWindows Phone8.pdb
+C:\Users\Andy\Downloads\Hello Windows Phone 8\C#\HelloWindows Phone8\Bin\Debug\AppManifest.xaml
+C:\Users\Andy\Downloads\Hello Windows Phone 8\C#\HelloWindows Phone8\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Andy\Downloads\Hello Windows Phone 8\C#\HelloWindows Phone8\Bin\Debug\HelloWindows_Phone8_Debug_AnyCPU.xap
+C:\Users\Andy\Downloads\Hello Windows Phone 8\C#\HelloWindows Phone8\obj\Debug\App.g.cs
+C:\Users\Andy\Downloads\Hello Windows Phone 8\C#\HelloWindows Phone8\obj\Debug\MainPage.g.cs
+C:\Users\Andy\Downloads\Hello Windows Phone 8\C#\HelloWindows Phone8\obj\Debug\HelloWindows Phone8.g.resources
+C:\Users\Andy\Downloads\Hello Windows Phone 8\C#\HelloWindows Phone8\obj\Debug\HelloWindows_Phone8.Resources.AppResources.resources
+C:\Users\Andy\Downloads\Hello Windows Phone 8\C#\HelloWindows Phone8\obj\Debug\HelloWindows Phone8.csproj.GenerateResource.Cache
+C:\Users\Andy\Downloads\Hello Windows Phone 8\C#\HelloWindows Phone8\obj\Debug\HelloWindows Phone8.dll
+C:\Users\Andy\Downloads\Hello Windows Phone 8\C#\HelloWindows Phone8\obj\Debug\HelloWindows Phone8.pdb
+C:\Users\Andy\Downloads\Hello Windows Phone 8\C#\HelloWindows Phone8\obj\Debug\XapCacheFile.xml
